@@ -26,7 +26,7 @@ h6 {
   font-weight: 700;
 }
 a {
-  color: #6e3852;
+  color: #a05257;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -34,7 +34,7 @@ a {
 }
 a:hover {
   text-decoration: underline;
-  color: #3c1e2c;
+  color: #a05257;
 }
 a:focus {
   text-decoration: none;
@@ -43,7 +43,7 @@ p {
   line-height: 1.5;
 }
 .wrapper {
-  background: #A15277;
+  background: #a05257;
   max-width: 960px;
   margin: 0 auto;
   position: relative;
@@ -52,7 +52,7 @@ p {
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
 .sidebar-wrapper {
-  background: #A15277;
+  background: #a05257;
   position: absolute;
   right: 0;
   width: 240px;
@@ -180,7 +180,7 @@ p {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  background: #6e3852;
+  background: #a05257;
   text-align: center;
   padding-top: 8px;
   font-size: 16px;
